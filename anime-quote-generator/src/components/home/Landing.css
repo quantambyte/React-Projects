@@ -1,0 +1,59 @@
+.landing {
+  text-align: center;
+  width: 70%;
+  /* margin: auto; */
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.icon {
+  font-size: 3rem;
+  padding: 5px;
+  color: #c5632f;
+}
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+p {
+  /* border: 1px solid black; */
+  letter-spacing: 1px;
+}
+
+.aac-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+h3 {
+  font-size: 0.9rem;
+}
+.aac {
+  margin-left: 3px;
+  font-size: 1rem;
+  color: #c5632f;
+  letter-spacing: 1px;
+}
+
+button {
+  margin-top: 1.5rem;
+  padding: 10px 20px;
+  border: 1px solid #c5632f;
+  font-size: 1rem;
+  outline: none;
+  box-shadow: #c5632f 0px 3px 6px, #c5632f 0px 3px 6px;
+}
+
+button:hover {
+  background-color: #c5632f;
+  color: #fff;
+}
