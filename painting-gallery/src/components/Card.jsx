@@ -11,9 +11,7 @@ const Card = ({ title, imgSource, dataAOS }) => {
           quisquam expedita facere? Recusandae modi tempore non
           possimus.
         </p>
-        <a href='#' className='btn'>
-          Buy Now
-        </a>
+        <div className='btn'>Buy Now</div>
       </div>
     </section>
   );
